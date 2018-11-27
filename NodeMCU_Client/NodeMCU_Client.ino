@@ -1,4 +1,5 @@
 #include <ESP8266WiFi.h>
+#include <SocketIOClient.h>
 
 const char* ssid = "TP-LINK_E9FF2A";
 const char* password = "";
